@@ -46,22 +46,22 @@ Where `A` is the **design matrix**, depending on the polynomial order.
 ---
 
 ### First-Order Fit (Linear)
-![First Order](/least_squares_order1.png)
+![First Order](/chapter_2/least_squares_order1.png)
 
 ---
 
 ### Second-Order Fit (Quadratic)
-![Second Order](/least_squares_order2.png)
+![Second Order](/chapter_2/least_squares_order2.png)
 
 ---
 
 ### Third-Order Fit (Cubic)
-![Third Order](/least_squares_order3.png)
+![Third Order](/chapter_2/least_squares_order3.png)
 
 ---
 
 ### Fourth-Order Fit (Quartic)
-![Fourth Order](/least_squares_order4.png)
+![Fourth Order](/chapter_2/least_squares_order4.png)
 
 ---
 
