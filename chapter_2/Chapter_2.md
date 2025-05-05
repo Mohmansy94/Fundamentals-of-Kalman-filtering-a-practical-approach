@@ -41,7 +41,7 @@ Where `A` is the **design matrix**, depending on the polynomial order.
 ## 📊 Example Plots
 
 ### Zeroth-Order Fit (Constant)
-![Zeroth Order](/least_squares_order0.png)
+![Zeroth Order](/chapter_2/least_squares_order0.png)
 
 ---
 
